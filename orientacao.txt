@@ -1,0 +1,22 @@
+Sistema de login
+
+Requisitos
+
+
+Python / POO - (Orientação a objetos) / MVC / Banco de dados / ORM (SqlAlchemy)
+
+-> Cadastro
+-Nome
+-Email(Não pode se repetir)
+->Senha(Obriatório Criptograda)
+
+-> Login
+-Email
+-Senha - Senha com o mínimo de força.
+
+-Apresentar os erros de senha incorreta 
+
+
+
+
+
